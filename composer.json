@@ -1,6 +1,6 @@
 {
   "name": "imagina/stylist",
-  "description": "Laravel 5,6,7,8 theming package.",
+  "description": "Laravel 5,6,7,8,9 theming package.",
   "authors": [
     {
       "name": "Kirk Bushell",
@@ -12,9 +12,9 @@
     }
   ],
   "require": {
-    "php": "^7.1",
-    "illuminate/support": "^6.0|^7.0|^8.0",
-    "laravel/framework": "^6.0|^7.0|^8.0",
+    "php": "^8.0",
+    "illuminate/support": "^6.0|^7.0|^8.0|^9.0",
+    "laravel/framework": "^6.0|^7.0|^8.0|^9.0",
     "laravelcollective/html": "^6.0|^7.0"
   },
   "require-dev": {

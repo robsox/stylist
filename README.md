@@ -23,6 +23,8 @@ Then, make sure the Stylist service provider is made available to your applicati
  5.8      | 1.1
  6.x      | 2.x
  7.x      | 3.x
+ 8.x      | 3.x
+ 9.x      | 3.x
 
 
 You're now ready to go!

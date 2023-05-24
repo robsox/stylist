@@ -34,7 +34,7 @@
         "Stylist": "Floatingpoint\\Stylist\\Facades\\Stylist",
         "Theme": "Floatingpoint\\Stylist\\Facades\\Theme"
       }
-    }
+    },
   "minimum-stability": "dev",
   "config": {
     "preferred-install": "dist"

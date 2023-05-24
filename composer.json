@@ -28,7 +28,7 @@
   },
   "laravel": {
       "providers": [
-        "FloatingPoint\\Stylist\\StylistServiceProvider"
+        "Floatingpoint\\Stylist\\StylistServiceProvider"
       ],
       "aliases": {
         "Stylist": "Floatingpoint\\Stylist\\Facades\\Stylist",

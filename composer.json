@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "FloatingPoint\\Stylist\\": "src/Stylist",
+      "Floatingpoint\\Stylist\\": "src/Stylist",
       "Tests\\": "tests"
     }
   },
@@ -31,8 +31,8 @@
         "FloatingPoint\\Stylist\\StylistServiceProvider"
       ],
       "aliases": {
-        "Stylist": "FloatingPoint\\Stylist\\Facades\\Stylist",
-        "Theme": "FloatingPoint\\Stylist\\Facades\\Theme"
+        "Stylist": "Floatingpoint\\Stylist\\Facades\\Stylist",
+        "Theme": "Floatingpoint\\Stylist\\Facades\\Theme"
       }
     }
   "minimum-stability": "dev",

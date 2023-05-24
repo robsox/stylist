@@ -26,6 +26,15 @@
       "Tests\\": "tests"
     }
   },
+  "laravel": {
+      "providers": [
+        "Imagina\\Stylist\\StylistServiceProvider"
+      ],
+      "aliases": {
+        "Stylist": "Imagina\\Stylist\\Facades\\Stylist",
+        "Theme": "Imagina\\Stylist\\Facades\\Theme"
+      }
+    }
   "minimum-stability": "dev",
   "config": {
     "preferred-install": "dist"

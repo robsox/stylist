@@ -28,11 +28,11 @@
   },
   "laravel": {
       "providers": [
-        "Imagina\\Stylist\\StylistServiceProvider"
+        "FloatingPoint\\Stylist\\StylistServiceProvider"
       ],
       "aliases": {
-        "Stylist": "Imagina\\Stylist\\Facades\\Stylist",
-        "Theme": "Imagina\\Stylist\\Facades\\Theme"
+        "Stylist": "FloatingPoint\\Stylist\\Facades\\Stylist",
+        "Theme": "FloatingPoint\\Stylist\\Facades\\Theme"
       }
     }
   "minimum-stability": "dev",
